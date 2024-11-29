@@ -1,5 +1,5 @@
-print("TRẦN DANH HOÀNG")
-print("MSSV:235752021610064")
+print("Hồ Đình Huân")
+print("MSSV:235752021610049")
 
 n1=int(input("enter n1 value")) 
 n2=int(input("enter n2 value")) 
