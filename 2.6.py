@@ -1,5 +1,5 @@
-print("TRẦN DANH HOÀNG")
-print("MSSV:235752021610064")
+print("Hồ Đình Huân")
+print("MSSV:235752021610049")
 
 j=[] 
 for i in range(2000, 3201): 
